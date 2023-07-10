@@ -1,6 +1,6 @@
 # Colored-MNIST
 Build VAE and Cycle Gan on colored-MNIST data
-In this task a build a colored MNIST data, with spesific color for each digit.
+In this task a build a colored MNIST data, with specific color for each digit.
 ##VAE
 With this dataset i build two Vae models(one continuous and one discriminate) and that generate new images from this dataset. 
 ##Cycle-Gan
